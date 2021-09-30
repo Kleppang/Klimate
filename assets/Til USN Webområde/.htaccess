@@ -1,0 +1,4 @@
+AuthName "Klimate"
+AuthType Basic
+AuthUserFile /home/226996/public_html/.htpasswd
+require valid-user
